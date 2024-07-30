@@ -120,12 +120,12 @@ header {
     align-items: flex-start;
 }
 
-.image_paragraph p {
+.concept_p {
     width: 60%;
     margin-right: 5%;
 }
 
-.image_paragraph img {
+.concept_img {
     width: 35%;
 }
 
@@ -173,7 +173,7 @@ article {
 
 .coffee_listing {
     background: #fff;
-    padding: 20px;
+    margin: 20px;
 }
 
 .coffee_menu_item {
